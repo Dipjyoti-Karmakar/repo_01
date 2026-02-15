@@ -18,8 +18,8 @@ The analysis is performed in a Jupyter Notebook (`.ipynb`), utilizing the **Pand
 ## 🗂️ Data Description
 The analysis uses two primary datasets merged to create a holistic view of the business:
 
-* **`transactions.csv:** Contains details on individual sales, including transaction dates, product details, and quantities.
-* **`customer_details.csv:** Stores demographic details such as customer location, membership status, and payment methods.
+* **`transactions.csv`:** Contains details on individual sales, including transaction dates, product details, and quantities.
+* **`customer_details.csv`:** Stores demographic details such as customer location, membership status, and payment methods.
 
 ## 🛠️ Tech Stack
 * **Language:** Python
