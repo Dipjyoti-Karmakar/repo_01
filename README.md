@@ -65,7 +65,11 @@ The notebook explores the following business questions:
 ## How to Run
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/coffee-sales-business-analytics.git
+    # Clone the repository (HTTPS - recommended)
+    git clone https://github.com/Dipjyoti-Karmakar/coffee-sales-business-analytics.git
+
+    # Or using SSH (for contributors with SSH keys)
+    git clone git@github.com:Dipjyoti-Karmakar/coffee-sales-business-analytics.git
     ```
 2.  **Install Dependencies:**
     ```bash
